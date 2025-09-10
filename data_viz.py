@@ -4,7 +4,7 @@
 # In[ ]:
 
 
-# 模块化可视功能
+# モジュール可視化
 import matplotlib.pyplot as plt
 import pandas as pd
 
