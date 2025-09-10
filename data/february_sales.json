@@ -1,0 +1,1682 @@
+[
+  {
+    "date": "2025-02-01",
+    "order_id": "ORD51224",
+    "money": 1336.75,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-01",
+    "order_id": "ORD62976",
+    "money": 4338.06,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-01",
+    "order_id": "ORD96200",
+    "money": 4359.9,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-01",
+    "order_id": "ORD64165",
+    "money": 365.6,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-01",
+    "order_id": "ORD57419",
+    "money": 3150.91,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-01",
+    "order_id": "ORD91973",
+    "money": 2266.0,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-01",
+    "order_id": "ORD36680",
+    "money": 1408.58,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-01",
+    "order_id": "ORD47752",
+    "money": 2246.77,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-01",
+    "order_id": "ORD73532",
+    "money": 694.99,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-01",
+    "order_id": "ORD89806",
+    "money": 4016.64,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-02",
+    "order_id": "ORD30758",
+    "money": 1622.68,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-02",
+    "order_id": "ORD82384",
+    "money": 2099.15,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-02",
+    "order_id": "ORD24871",
+    "money": 2361.09,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-02",
+    "order_id": "ORD94896",
+    "money": 4177.5,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-02",
+    "order_id": "ORD48254",
+    "money": 2593.47,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-02",
+    "order_id": "ORD64459",
+    "money": 4190.15,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-02",
+    "order_id": "ORD41946",
+    "money": 2338.25,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-02",
+    "order_id": "ORD60277",
+    "money": 1033.99,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-02",
+    "order_id": "ORD76616",
+    "money": 3756.83,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-02",
+    "order_id": "ORD19150",
+    "money": 1453.61,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-03",
+    "order_id": "ORD54548",
+    "money": 4677.82,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-03",
+    "order_id": "ORD45018",
+    "money": 4120.69,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-03",
+    "order_id": "ORD49132",
+    "money": 4203.63,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-03",
+    "order_id": "ORD96499",
+    "money": 2499.24,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-03",
+    "order_id": "ORD68529",
+    "money": 2739.04,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-03",
+    "order_id": "ORD53573",
+    "money": 2804.4,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-03",
+    "order_id": "ORD59441",
+    "money": 2331.19,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-03",
+    "order_id": "ORD34727",
+    "money": 4905.8,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-03",
+    "order_id": "ORD84946",
+    "money": 1976.56,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-03",
+    "order_id": "ORD15720",
+    "money": 1659.06,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-04",
+    "order_id": "ORD59968",
+    "money": 1991.79,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-04",
+    "order_id": "ORD95461",
+    "money": 4906.01,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-04",
+    "order_id": "ORD14852",
+    "money": 718.61,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-04",
+    "order_id": "ORD53515",
+    "money": 4361.53,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-04",
+    "order_id": "ORD23069",
+    "money": 2677.16,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-04",
+    "order_id": "ORD12011",
+    "money": 3639.97,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-04",
+    "order_id": "ORD95823",
+    "money": 4852.79,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-04",
+    "order_id": "ORD71537",
+    "money": 3929.47,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-04",
+    "order_id": "ORD54375",
+    "money": 3153.97,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-04",
+    "order_id": "ORD95175",
+    "money": 493.55,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-05",
+    "order_id": "ORD98389",
+    "money": 4310.78,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-05",
+    "order_id": "ORD51505",
+    "money": 3171.32,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-05",
+    "order_id": "ORD80912",
+    "money": 275.91,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-05",
+    "order_id": "ORD40771",
+    "money": 3192.69,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-05",
+    "order_id": "ORD39817",
+    "money": 3759.16,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-05",
+    "order_id": "ORD22903",
+    "money": 3825.81,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-05",
+    "order_id": "ORD23173",
+    "money": 2274.02,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-05",
+    "order_id": "ORD49251",
+    "money": 4526.78,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-05",
+    "order_id": "ORD52516",
+    "money": 4001.1,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-05",
+    "order_id": "ORD56984",
+    "money": 1936.72,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-06",
+    "order_id": "ORD42007",
+    "money": 2702.71,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-06",
+    "order_id": "ORD99364",
+    "money": 3983.35,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-06",
+    "order_id": "ORD32946",
+    "money": 486.94,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-06",
+    "order_id": "ORD91226",
+    "money": 3447.36,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-06",
+    "order_id": "ORD86435",
+    "money": 801.28,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-06",
+    "order_id": "ORD93611",
+    "money": 1344.49,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-06",
+    "order_id": "ORD97404",
+    "money": 146.05,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-06",
+    "order_id": "ORD47700",
+    "money": 3420.29,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-06",
+    "order_id": "ORD19681",
+    "money": 2264.48,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-06",
+    "order_id": "ORD87014",
+    "money": 1565.86,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-07",
+    "order_id": "ORD42780",
+    "money": 2338.5,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-07",
+    "order_id": "ORD36111",
+    "money": 4996.93,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-07",
+    "order_id": "ORD23979",
+    "money": 1262.31,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-07",
+    "order_id": "ORD57049",
+    "money": 2916.58,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-07",
+    "order_id": "ORD48696",
+    "money": 207.5,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-07",
+    "order_id": "ORD61879",
+    "money": 1444.95,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-07",
+    "order_id": "ORD99889",
+    "money": 3913.73,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-07",
+    "order_id": "ORD89482",
+    "money": 3751.34,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-07",
+    "order_id": "ORD40162",
+    "money": 3074.62,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-07",
+    "order_id": "ORD38705",
+    "money": 3219.43,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-08",
+    "order_id": "ORD42850",
+    "money": 3421.05,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-08",
+    "order_id": "ORD96400",
+    "money": 3436.19,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-08",
+    "order_id": "ORD92345",
+    "money": 576.1,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-08",
+    "order_id": "ORD94717",
+    "money": 293.17,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-08",
+    "order_id": "ORD14373",
+    "money": 2939.91,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-08",
+    "order_id": "ORD27224",
+    "money": 541.65,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-08",
+    "order_id": "ORD52823",
+    "money": 3762.66,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-08",
+    "order_id": "ORD36318",
+    "money": 747.58,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-08",
+    "order_id": "ORD57953",
+    "money": 2701.18,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-08",
+    "order_id": "ORD31567",
+    "money": 1359.15,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-09",
+    "order_id": "ORD48684",
+    "money": 3758.14,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-09",
+    "order_id": "ORD25095",
+    "money": 2394.82,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-09",
+    "order_id": "ORD28449",
+    "money": 3795.34,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-09",
+    "order_id": "ORD98647",
+    "money": 3648.66,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-09",
+    "order_id": "ORD83048",
+    "money": 1892.3,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-09",
+    "order_id": "ORD11824",
+    "money": 1395.85,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-09",
+    "order_id": "ORD69609",
+    "money": 1906.07,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-09",
+    "order_id": "ORD98125",
+    "money": 1384.59,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-09",
+    "order_id": "ORD93695",
+    "money": 4707.43,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-09",
+    "order_id": "ORD98452",
+    "money": 1245.73,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-10",
+    "order_id": "ORD91205",
+    "money": 4432.75,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-10",
+    "order_id": "ORD52992",
+    "money": 4584.75,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-10",
+    "order_id": "ORD94889",
+    "money": 409.76,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-10",
+    "order_id": "ORD49608",
+    "money": 3281.27,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-10",
+    "order_id": "ORD28320",
+    "money": 322.2,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-10",
+    "order_id": "ORD49893",
+    "money": 4980.04,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-10",
+    "order_id": "ORD22739",
+    "money": 1250.52,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-10",
+    "order_id": "ORD27781",
+    "money": 2004.36,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-10",
+    "order_id": "ORD97881",
+    "money": 4751.97,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-10",
+    "order_id": "ORD80804",
+    "money": 2153.72,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-11",
+    "order_id": "ORD30253",
+    "money": 4438.53,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-11",
+    "order_id": "ORD22978",
+    "money": 4185.1,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-11",
+    "order_id": "ORD63492",
+    "money": 4701.36,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-11",
+    "order_id": "ORD14288",
+    "money": 3482.38,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-11",
+    "order_id": "ORD68115",
+    "money": 2279.01,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-11",
+    "order_id": "ORD57537",
+    "money": 586.84,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-11",
+    "order_id": "ORD58147",
+    "money": 2767.88,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-11",
+    "order_id": "ORD57012",
+    "money": 396.7,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-11",
+    "order_id": "ORD34878",
+    "money": 4844.21,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-11",
+    "order_id": "ORD22015",
+    "money": 3347.57,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-12",
+    "order_id": "ORD93819",
+    "money": 3026.02,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-12",
+    "order_id": "ORD16629",
+    "money": 3955.29,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-12",
+    "order_id": "ORD26505",
+    "money": 3956.19,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-12",
+    "order_id": "ORD18992",
+    "money": 4166.11,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-12",
+    "order_id": "ORD37152",
+    "money": 2973.28,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-12",
+    "order_id": "ORD53064",
+    "money": 3894.41,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-12",
+    "order_id": "ORD10371",
+    "money": 1458.65,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-12",
+    "order_id": "ORD27038",
+    "money": 2747.06,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-12",
+    "order_id": "ORD24408",
+    "money": 3339.18,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-12",
+    "order_id": "ORD27275",
+    "money": 172.82,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-13",
+    "order_id": "ORD87182",
+    "money": 1686.48,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-13",
+    "order_id": "ORD44782",
+    "money": 356.76,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-13",
+    "order_id": "ORD65176",
+    "money": 2677.82,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-13",
+    "order_id": "ORD18330",
+    "money": 2433.61,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-13",
+    "order_id": "ORD77271",
+    "money": 3008.96,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-13",
+    "order_id": "ORD76039",
+    "money": 1185.59,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-13",
+    "order_id": "ORD15683",
+    "money": 3663.49,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-13",
+    "order_id": "ORD78347",
+    "money": 1577.99,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-13",
+    "order_id": "ORD14082",
+    "money": 398.04,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-13",
+    "order_id": "ORD62640",
+    "money": 2188.74,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-14",
+    "order_id": "ORD74260",
+    "money": 3590.77,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-14",
+    "order_id": "ORD19632",
+    "money": 4506.41,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-14",
+    "order_id": "ORD89730",
+    "money": 826.84,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-14",
+    "order_id": "ORD46046",
+    "money": 3159.16,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-14",
+    "order_id": "ORD81874",
+    "money": 3589.55,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-14",
+    "order_id": "ORD88301",
+    "money": 2699.73,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-14",
+    "order_id": "ORD76263",
+    "money": 3066.59,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-14",
+    "order_id": "ORD24996",
+    "money": 4278.68,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-14",
+    "order_id": "ORD82264",
+    "money": 3632.12,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-14",
+    "order_id": "ORD66370",
+    "money": 2312.62,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-15",
+    "order_id": "ORD64239",
+    "money": 1760.76,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-15",
+    "order_id": "ORD62262",
+    "money": 2138.35,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-15",
+    "order_id": "ORD50966",
+    "money": 2191.14,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-15",
+    "order_id": "ORD43408",
+    "money": 1934.08,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-15",
+    "order_id": "ORD72163",
+    "money": 428.95,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-15",
+    "order_id": "ORD22219",
+    "money": 2216.19,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-15",
+    "order_id": "ORD58843",
+    "money": 4077.67,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-15",
+    "order_id": "ORD17861",
+    "money": 2973.68,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-15",
+    "order_id": "ORD83620",
+    "money": 1715.27,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-15",
+    "order_id": "ORD63845",
+    "money": 1832.63,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-16",
+    "order_id": "ORD65435",
+    "money": 4353.65,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-16",
+    "order_id": "ORD16743",
+    "money": 4845.15,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-16",
+    "order_id": "ORD50953",
+    "money": 1823.07,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-16",
+    "order_id": "ORD76507",
+    "money": 1142.42,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-16",
+    "order_id": "ORD73201",
+    "money": 1198.8,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-16",
+    "order_id": "ORD55890",
+    "money": 4242.33,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-16",
+    "order_id": "ORD25058",
+    "money": 3836.77,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-16",
+    "order_id": "ORD39643",
+    "money": 4055.38,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-16",
+    "order_id": "ORD91490",
+    "money": 3106.51,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-16",
+    "order_id": "ORD82972",
+    "money": 228.64,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-17",
+    "order_id": "ORD45054",
+    "money": 241.87,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-17",
+    "order_id": "ORD50499",
+    "money": 4615.53,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-17",
+    "order_id": "ORD10800",
+    "money": 988.89,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-17",
+    "order_id": "ORD84228",
+    "money": 3320.99,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-17",
+    "order_id": "ORD28595",
+    "money": 3730.75,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-17",
+    "order_id": "ORD22026",
+    "money": 3755.95,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-17",
+    "order_id": "ORD59308",
+    "money": 2157.18,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-17",
+    "order_id": "ORD30631",
+    "money": 1913.26,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-17",
+    "order_id": "ORD52517",
+    "money": 3906.49,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-17",
+    "order_id": "ORD88148",
+    "money": 516.29,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-18",
+    "order_id": "ORD30392",
+    "money": 871.31,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-18",
+    "order_id": "ORD16522",
+    "money": 3402.45,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-18",
+    "order_id": "ORD68079",
+    "money": 3343.5,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-18",
+    "order_id": "ORD89570",
+    "money": 2266.02,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-18",
+    "order_id": "ORD38255",
+    "money": 3799.22,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-18",
+    "order_id": "ORD55242",
+    "money": 2206.58,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-18",
+    "order_id": "ORD98895",
+    "money": 3424.58,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-18",
+    "order_id": "ORD79066",
+    "money": 3368.95,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-18",
+    "order_id": "ORD38903",
+    "money": 2036.79,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-18",
+    "order_id": "ORD17180",
+    "money": 137.67,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-19",
+    "order_id": "ORD37686",
+    "money": 3860.01,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-19",
+    "order_id": "ORD47938",
+    "money": 1707.8,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-19",
+    "order_id": "ORD75193",
+    "money": 3760.37,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-19",
+    "order_id": "ORD26932",
+    "money": 1963.02,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-19",
+    "order_id": "ORD40161",
+    "money": 2551.29,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-19",
+    "order_id": "ORD56421",
+    "money": 453.17,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-19",
+    "order_id": "ORD15544",
+    "money": 2237.48,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-19",
+    "order_id": "ORD20205",
+    "money": 4324.34,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-19",
+    "order_id": "ORD66267",
+    "money": 2909.66,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-19",
+    "order_id": "ORD93904",
+    "money": 2146.7,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-20",
+    "order_id": "ORD63088",
+    "money": 202.2,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-20",
+    "order_id": "ORD32527",
+    "money": 4026.48,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-20",
+    "order_id": "ORD70305",
+    "money": 4176.93,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-20",
+    "order_id": "ORD21551",
+    "money": 2239.89,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-20",
+    "order_id": "ORD41891",
+    "money": 2234.81,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-20",
+    "order_id": "ORD78676",
+    "money": 485.37,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-20",
+    "order_id": "ORD54500",
+    "money": 1185.7,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-20",
+    "order_id": "ORD20011",
+    "money": 2601.37,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-20",
+    "order_id": "ORD79547",
+    "money": 2598.77,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-20",
+    "order_id": "ORD56019",
+    "money": 3664.16,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-21",
+    "order_id": "ORD29358",
+    "money": 1257.72,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-21",
+    "order_id": "ORD43550",
+    "money": 1066.63,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-21",
+    "order_id": "ORD30036",
+    "money": 3825.05,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-21",
+    "order_id": "ORD19876",
+    "money": 968.02,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-21",
+    "order_id": "ORD74764",
+    "money": 2373.37,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-21",
+    "order_id": "ORD85952",
+    "money": 2299.64,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-21",
+    "order_id": "ORD94278",
+    "money": 3212.96,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-21",
+    "order_id": "ORD52363",
+    "money": 4334.81,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-21",
+    "order_id": "ORD51436",
+    "money": 839.69,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-21",
+    "order_id": "ORD71462",
+    "money": 2266.82,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-22",
+    "order_id": "ORD46002",
+    "money": 2997.96,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-22",
+    "order_id": "ORD76497",
+    "money": 463.53,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-22",
+    "order_id": "ORD69233",
+    "money": 284.28,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-22",
+    "order_id": "ORD47627",
+    "money": 475.98,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-22",
+    "order_id": "ORD90610",
+    "money": 3010.99,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-22",
+    "order_id": "ORD70648",
+    "money": 2943.61,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-22",
+    "order_id": "ORD15376",
+    "money": 2303.7,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-22",
+    "order_id": "ORD95437",
+    "money": 1022.37,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-22",
+    "order_id": "ORD72341",
+    "money": 2556.7,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-22",
+    "order_id": "ORD69050",
+    "money": 607.16,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-23",
+    "order_id": "ORD21053",
+    "money": 2572.29,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-23",
+    "order_id": "ORD15130",
+    "money": 1313.94,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-23",
+    "order_id": "ORD67595",
+    "money": 2667.94,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-23",
+    "order_id": "ORD30807",
+    "money": 1883.1,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-23",
+    "order_id": "ORD60779",
+    "money": 2102.97,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-23",
+    "order_id": "ORD98984",
+    "money": 3029.64,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-23",
+    "order_id": "ORD94843",
+    "money": 1739.78,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-23",
+    "order_id": "ORD22387",
+    "money": 2834.02,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-23",
+    "order_id": "ORD47243",
+    "money": 1334.78,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-23",
+    "order_id": "ORD88997",
+    "money": 4379.07,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-24",
+    "order_id": "ORD20682",
+    "money": 2955.42,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-24",
+    "order_id": "ORD55851",
+    "money": 1620.14,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-24",
+    "order_id": "ORD96787",
+    "money": 2020.59,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-24",
+    "order_id": "ORD21104",
+    "money": 1616.95,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-24",
+    "order_id": "ORD94343",
+    "money": 3979.14,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-24",
+    "order_id": "ORD97833",
+    "money": 3543.87,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-24",
+    "order_id": "ORD99838",
+    "money": 4571.0,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-24",
+    "order_id": "ORD94675",
+    "money": 3385.23,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-24",
+    "order_id": "ORD57425",
+    "money": 189.33,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-24",
+    "order_id": "ORD33627",
+    "money": 4760.73,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-25",
+    "order_id": "ORD73736",
+    "money": 1040.83,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-25",
+    "order_id": "ORD30308",
+    "money": 478.11,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-25",
+    "order_id": "ORD76543",
+    "money": 3877.29,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-25",
+    "order_id": "ORD79013",
+    "money": 284.96,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-25",
+    "order_id": "ORD91006",
+    "money": 742.14,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-25",
+    "order_id": "ORD30218",
+    "money": 895.01,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-25",
+    "order_id": "ORD91885",
+    "money": 4064.31,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-25",
+    "order_id": "ORD67366",
+    "money": 314.09,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-25",
+    "order_id": "ORD98652",
+    "money": 3625.97,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-25",
+    "order_id": "ORD90031",
+    "money": 1496.15,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-26",
+    "order_id": "ORD68841",
+    "money": 1246.61,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-26",
+    "order_id": "ORD50562",
+    "money": 4831.42,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-26",
+    "order_id": "ORD35430",
+    "money": 1902.42,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-26",
+    "order_id": "ORD67749",
+    "money": 2362.23,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-26",
+    "order_id": "ORD60052",
+    "money": 2564.24,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-26",
+    "order_id": "ORD31241",
+    "money": 4102.77,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-26",
+    "order_id": "ORD28140",
+    "money": 4377.71,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-26",
+    "order_id": "ORD94040",
+    "money": 2454.89,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-26",
+    "order_id": "ORD82684",
+    "money": 4678.04,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-26",
+    "order_id": "ORD77621",
+    "money": 4270.71,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-27",
+    "order_id": "ORD20993",
+    "money": 3839.27,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-27",
+    "order_id": "ORD68893",
+    "money": 4536.0,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-27",
+    "order_id": "ORD67340",
+    "money": 549.4,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-27",
+    "order_id": "ORD69130",
+    "money": 4434.69,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-27",
+    "order_id": "ORD64381",
+    "money": 360.96,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-27",
+    "order_id": "ORD59015",
+    "money": 1255.31,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-27",
+    "order_id": "ORD59140",
+    "money": 1200.24,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-27",
+    "order_id": "ORD22987",
+    "money": 4211.96,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-27",
+    "order_id": "ORD53947",
+    "money": 3977.77,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-27",
+    "order_id": "ORD15020",
+    "money": 1505.71,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-28",
+    "order_id": "ORD28191",
+    "money": 3818.32,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-28",
+    "order_id": "ORD68799",
+    "money": 3115.21,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-28",
+    "order_id": "ORD12490",
+    "money": 1354.03,
+    "province": "Shanghai"
+  },
+  {
+    "date": "2025-02-28",
+    "order_id": "ORD81932",
+    "money": 4707.11,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-28",
+    "order_id": "ORD79176",
+    "money": 2173.95,
+    "province": "Guangdong"
+  },
+  {
+    "date": "2025-02-28",
+    "order_id": "ORD41147",
+    "money": 1575.64,
+    "province": "Beijing"
+  },
+  {
+    "date": "2025-02-28",
+    "order_id": "ORD41252",
+    "money": 2157.15,
+    "province": "Sichuan"
+  },
+  {
+    "date": "2025-02-28",
+    "order_id": "ORD69914",
+    "money": 407.76,
+    "province": "Zhejiang"
+  },
+  {
+    "date": "2025-02-28",
+    "order_id": "ORD88215",
+    "money": 2726.66,
+    "province": "Jiangsu"
+  },
+  {
+    "date": "2025-02-28",
+    "order_id": "ORD77551",
+    "money": 2917.73,
+    "province": "Jiangsu"
+  }
+]
